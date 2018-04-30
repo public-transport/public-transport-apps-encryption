@@ -5,7 +5,7 @@ All apps listed below are iOS apps.
 ## *HAFAS*-based
 
 app | version | HTTPS? | sends device-unique ID? | cert pinning?
--|-|-|-|-|-
+----|---------|--------|-------------------------|--------------
 INVG | `1.2.1` | ❌ | ❌ | ❌
 VVW | `4.0.8` | ❌ | ❌ | ❌
 VSN | `4.3.3` | ❌ | ❌ | ❌
@@ -43,7 +43,7 @@ VOR | `3.3.1.9` | ❌ | ❌ | ❌
 ## *fiffi*-based
 
 app | version | HTTPS? | sends device-unique ID? | cert pinning?
--|-|-|-|-|-
+----|---------|--------|-------------------------|--------------
 Fahrinfo Nürnberg | `3.3` | ✅ | ? | ❌
 SWA Augsburg | `1.3` | ✅ | ? | ❌
 Stadtwerke Konstanz | `2.1` | ✅ | ? | ❌
@@ -51,7 +51,7 @@ Stadtwerke Konstanz | `2.1` | ✅ | ? | ❌
 ## *EVA*-based
 
 app | version | HTTPS? | sends device-unique ID? | cert pinning?
--|-|-|-|-|-
+----|---------|--------|-------------------------|--------------
 MVV | `4.6.6` | ❌ | ? (EVA) | ❌
 
 ## unknown because they use HTTPS & [certificate pinning](https://en.wikipedia.org/wiki/Transport_Layer_Security#Certificate_pinning) 🔒
@@ -59,7 +59,7 @@ MVV | `4.6.6` | ❌ | ? (EVA) | ❌
 These need further investigation.
 
 app | version | HTTPS? | sends device-unique ID? | cert pinning?
--|-|-|-|-|-
+----|---------|--------|-------------------------|--------------
 SBB | `7.5.0` | ✅ | ? | ✅
 RMV | `2.1.1 298 (iOS)` | ✅ | ? | ✅
 HVV | `4.1.0.130#22872` | ✅ | ? | ✅
