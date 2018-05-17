@@ -54,6 +54,17 @@ app | version | HTTPS? | sends device-unique ID? | cert pinning?
 ----|---------|--------|-------------------------|--------------
 MVV | `4.6.6` | ❌ | ? (EVA) | ❌
 
+## apps using the [iRail API](https://api.irail.be/)
+
+app | version | HTTPS? | sends device-unique ID? | cert pinning?
+----|---------|--------|-------------------------|--------------
+[BeTrains](https://play.google.com/store/apps/details?id=tof.cv.mpp) | ? | ✅ | ? | ?
+[Railer](http://www.railer.be/) | ? | ✅ | ? | ?
+[HyperRail](https://play.google.com/store/apps/details?id=be.hyperrail.android) | ? | ✅ | ? | ?
+[NextTrain](http://nexttrain.tjeerdytsma.nl/) | ? | ✅ | ? | ?
+[BeRail Sailfish OS](https://github.com/iRail/harbour-berail) | ? | ✅ | ? | ?
+[FlatTurtle](http://www.getflatturtle.com/) | ? | ✅ | ? | ?
+
 ## unknown because they use HTTPS & [certificate pinning](https://en.wikipedia.org/wiki/Transport_Layer_Security#Certificate_pinning) 🔒
 
 These need further investigation.
