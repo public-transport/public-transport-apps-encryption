@@ -25,3 +25,9 @@ You could argue that, in 2018, it's outright irresponsible to have transit apps 
 - configure your webserver to use [HTTPS](https://en.wikipedia.org/wiki/HTTPS)
 - most importantly, **change your apps to only send HTTPS requests**
 - redirect HTTP requests to HTTPS
+
+## More info
+
+- [HTTPS – Wikipedia](https://en.wikipedia.org/wiki/HTTPS)
+- [*Why HTTPS for everything?*](https://https.cio.gov/everything/)
+- [*Is TLS fast yet?*](https://istlsfastyet.com)

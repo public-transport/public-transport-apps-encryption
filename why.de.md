@@ -15,7 +15,7 @@ Abgesehen von der Tatsache, dass all diese Informationen bei dem Anbieter der Ap
 - sowohl Personen mit krimineller Motivation als auch Anbieter von Wifi-/Internetinfrastruktur Daten darüber sammeln, wonach Nutzende wann und wo suchen,
 - großflächige Massenüberwachung an vielen Stellen zwischen Nutzenden und App-Anbieter genutzt wird.
 
-Obwohl es hard ist, gegen alle diese Gefahren zu schützen, **können eine ganze Gruppe dieser durch verschlüsselte Übertragung verhindert werden**.
+Obwohl es schwierig ist, gegen alle diese Gefahren zu schützen, **können eine ganze Gruppe dieser durch verschlüsselte Übertragung verhindert werden**.
 
 Man könnte argumentieren, dass es im Jahr 2018 einfach unverantwortlich ist, Reise-Apps unverschlüsselt kommunizieren zu lassen.
 
@@ -25,3 +25,9 @@ Man könnte argumentieren, dass es im Jahr 2018 einfach unverantwortlich ist, Re
 - aktiviert [HTTPS](https://en.wikipedia.org/wiki/HTTPS) in eurem Webserver
 - am Wichtigsten: **stellt eure Apps um, sodass sie *nur* HTTPS verwenden**
 - leitet HTTP-Requests zu HTTPS um
+
+## Weitere Informationen
+
+- [HTTPS – Wikipedia](https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol_Secure)
+- [*Why HTTPS for everything?*](https://https.cio.gov/everything/) (Englisch)
+- [*Is TLS fast yet?*](https://istlsfastyet.com) (Englisch)
