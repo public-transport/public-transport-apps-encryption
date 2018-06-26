@@ -69,7 +69,7 @@ const main = () => {
     writeLine("")
 
     // other apps
-    writeLine("Other apps")
+    writeLine("## Other apps")
     writeLine("")
     writeLine("agency | os | version | official? | HTTPS? | sends device-unique ID? | cert pinning?")
     writeLine("-------|----|---------|-----------|--------|-------------------------|--------------")

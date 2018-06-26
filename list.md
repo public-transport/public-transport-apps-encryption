@@ -59,7 +59,7 @@ agency | os | version | official? | HTTPS? | sends device-unique ID? | cert pinn
 [iRail](https://hello.irail.be/)|ios|[1.7.3](https://itunes.apple.com/app/id591205121)|❌|✅|❔|❔
 [iRail](https://hello.irail.be/)|android|[1.0.10b](https://play.google.com/store/apps/details?id=be.hyperrail.android)|❌|✅|❔|❔
 
-Other apps
+## Other apps
 
 agency | os | version | official? | HTTPS? | sends device-unique ID? | cert pinning?
 -------|----|---------|-----------|--------|-------------------------|--------------
