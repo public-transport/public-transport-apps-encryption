@@ -58,6 +58,8 @@ agency | os | version | official? | HTTPS? | sends device-unique ID? | cert pinn
 [iRail](https://hello.irail.be/)|android|[4.8.13](https://play.google.com/store/apps/details?id=tof.cv.mpp)|❌|✅|❔|❔
 [iRail](https://hello.irail.be/)|ios|[1.7.3](https://itunes.apple.com/app/id591205121)|❌|✅|❔|❔
 [iRail](https://hello.irail.be/)|android|[1.0.10b](https://play.google.com/store/apps/details?id=be.hyperrail.android)|❌|✅|❔|❔
+[iRail](https://hello.irail.be/)|sailfishOS|[2.0](https://github.com/iRail/harbour-berail)|❌|✅|❔|❔
+[iRail](https://hello.irail.be/)|Pebble|[0.0.0](http://nexttrain.tjeerdytsma.nl/)|❌|✅|❔|❔
 
 ## Other apps
 

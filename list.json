@@ -649,6 +649,42 @@
     },
     {
         "agency": {
+            "id": "be-irail",
+            "code": "iRail",
+            "name": "iRail",
+            "website": "https://hello.irail.be/",
+            "countries": ["BE"]
+        },
+        "os": "sailfishOS",
+        "appId": "https://github.com/iRail/harbour-berail",
+        "version": "2.0",
+        "usesHttps": true,
+        "endpointHasHttps": null,
+        "certificatePinning": null,
+        "sendsDeviceId": null,
+        "system": null,
+        "official": false
+    },
+    {
+        "agency": {
+            "id": "be-irail",
+            "code": "iRail",
+            "name": "iRail",
+            "website": "https://hello.irail.be/",
+            "countries": ["BE"]
+        },
+        "os": "Pebble",
+        "appId": "http://nexttrain.tjeerdytsma.nl/",
+        "version": "0.0.0",
+        "usesHttps": true,
+        "endpointHasHttps": null,
+        "certificatePinning": null,
+        "sendsDeviceId": null,
+        "system": null,
+        "official": false
+    },
+    {
+        "agency": {
             "id": "de-mvv",
             "code": "MVV",
             "name": "Münchner Verkehrs- und Tarifverbund",
