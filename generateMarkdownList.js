@@ -17,7 +17,8 @@ const writeRow = app => {
         version = `[${app.version}](https://play.google.com/store/apps/details?id=${app.appId})`
     else if (os === 'ios')
         version = `[${app.version}](https://itunes.apple.com/app/${app.appId})`
-    else throw new Error('invalid os: '+os)
+    else
+        version = `[${app.version}](${app.appId})`
     const official = emoji(app.official)
     const https = emoji(app.usesHttps)
     const devideId = emoji(app.sendsDeviceId)
