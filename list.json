@@ -1,0 +1,794 @@
+[
+    {
+        "agency": {
+            "id": "de-invg",
+            "code": "INVG",
+            "name": "Ingolstädter Verkehrsgesellschaft",
+            "website": "https://www.invg.de/",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id938608154",
+        "version": "1.2.1",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-vsn",
+            "code": "VSN",
+            "name": "Verkehrsverbund Süd-Niedersachsen",
+            "website": "https://www.vsninfo.de/",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id1082290446",
+        "version": "4.3.3",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-vmt",
+            "code": "VMT",
+            "name": "Verkehrsverbund Mittelthüringen",
+            "website": "https://www.vmt-thueringen.de/",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id1122038347",
+        "version": "2.0",
+        "usesHttps": true,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-vbb",
+            "code": "VBB",
+            "name": "Verkehrsverbund Berlin-Brandenburg",
+            "website": "https://www.vbb.de/",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id409357982",
+        "version": "4.1.6",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": true,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-bvg",
+            "code": "BVG",
+            "name": "Berliner Verkehrsbetriebe",
+            "website": "https://www.bvg.de/",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id284971745",
+        "version": "6.0.0",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-sbahn-berlin",
+            "code": "S-Bahn Berlin",
+            "name": "S-Bahn Berlin",
+            "website": "https://www.s-bahn-berlin.de/",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id739843840",
+        "version": "3.0.2",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": true,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-nahsh",
+            "code": "NAH.SH",
+            "name": "Nahverkehrsverbund Schleswig-Holstein",
+            "website": "https://www.nah.sh/",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id1045981959",
+        "version": "3.0.7",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-insa",
+            "code": "INSA",
+            "name": "Informationssystem Nahverkehr Sachsen-Anhalt",
+            "website": "https://www.insa.de",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id461448116",
+        "version": "4.0.2",
+        "usesHttps": true,
+        "endpointHasHttps": null,
+        "certificatePinning": true,
+        "sendsDeviceId": null,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "at-vor",
+            "code": "VOR",
+            "name": "Verkehrsverbund Ost-Region",
+            "website": "https://www.vor.at",
+            "countries": ["AT"]
+        },
+        "os": "ios",
+        "appId": "id371295078",
+        "version": "3.3.1",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "ch-zvv",
+            "code": "ZVV",
+            "name": "Zürcher Verkehrsverbund",
+            "website": "https://www.zvv.ch",
+            "countries": ["CH"]
+        },
+        "os": "ios",
+        "appId": "id383891131",
+        "version": "3.2.16",
+        "usesHttps": true,
+        "endpointHasHttps": null,
+        "certificatePinning": true,
+        "sendsDeviceId": null,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-metronom",
+            "code": "metronom",
+            "name": "metronom",
+            "website": "https://www.der-metronom.de/",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id582667951",
+        "version": "2.2.4",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-db",
+            "code": "DB",
+            "name": "Deutsche Bahn",
+            "website": "https://www.bahn.de/",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id343555245",
+        "version": "18.04.04",
+        "usesHttps": true,
+        "endpointHasHttps": null,
+        "certificatePinning": true,
+        "sendsDeviceId": null,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "at-oebb",
+            "code": "ÖBB",
+            "name": "Österreichische Bundesbahnen",
+            "website": "https://www.oebb.at/",
+            "countries": ["AT"]
+        },
+        "os": "ios",
+        "appId": "id315497345",
+        "version": "6.2.0",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-vbn",
+            "code": "VBN",
+            "name": "Verkehrsverbund Bremen/Niedersachsen",
+            "website": "https://www.vbn.de",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id478311038",
+        "version": "4.2.10",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-vvw",
+            "code": "VVW",
+            "name": "Verkehrsverbund Warnow",
+            "website": "https://www.verkehrsverbund-warnow.de",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id904205724",
+        "version": "4.0.8",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-nvv",
+            "code": "NVV",
+            "name": "Nordhessischer Verkehrsverbund",
+            "website": "https://www.nvv.de/",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id526331122",
+        "version": "4.0.4",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "dk-rejseplanen",
+            "code": "Rejseplanen",
+            "name": "Rejseplanen",
+            "website": "https://www.rejseplanen.dk/",
+            "countries": ["DK"]
+        },
+        "os": "ios",
+        "appId": "id317007942",
+        "version": "6.0.8",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "lu-mobiliteit",
+            "code": "mobiliteit.lu",
+            "name": "Verkéiersverbond",
+            "website": "https://www.mobiliteit.lu/",
+            "countries": ["LU"]
+        },
+        "os": "ios",
+        "appId": "id434829995",
+        "version": "4.0.24",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "lu-cfl",
+            "code": "CFL",
+            "name": "Société nationale des chemins de fer luxembourgeois",
+            "website": "http://www.cfl.lu/",
+            "countries": ["LU"]
+        },
+        "os": "ios",
+        "appId": "id406175215",
+        "version": "4.0.0",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "gb-arriva-bus",
+            "code": "Arriva Bus",
+            "name": "Arriva Bus",
+            "website": "https://www.arrivabus.co.uk/",
+            "countries": ["GB"]
+        },
+        "os": "ios",
+        "appId": "id726162349",
+        "version": "3.2.0",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "ie-irish-rail",
+            "code": "Iarnród Éireann",
+            "name": "Iarnród Éireann",
+            "website": "http://www.irishrail.ie",
+            "countries": ["IE"]
+        },
+        "os": "ios",
+        "appId": "id588339413",
+        "version": "3.00.8",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-moobil-plus",
+            "code": "moobil+",
+            "name": "moobil+",
+            "website": "https://www.moobilplus.de/",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id944249242",
+        "version": "4.0.4",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "it-extra-to",
+            "code": "Extra.To",
+            "name": "Extra.To",
+            "website": "http://www.extrato.it",
+            "countries": ["IT"]
+        },
+        "os": "ios",
+        "appId": "id1265383365",
+        "version": "1.0.0",
+        "usesHttps": true,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-rbs",
+            "code": "RBS",
+            "name": "Regiobus Stuttgart",
+            "website": "https://www.bahn.de/regiobusstuttgart/view/index.shtml",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id1025722473",
+        "version": "1.0.3",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-uestra",
+            "code": "ÜSTRA",
+            "name": "ÜSTRA Hannoversche Verkehrsbetriebe",
+            "website": "https://www.uestra.de",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id1073096181",
+        "version": "18.06.1",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-sbahn-muenchen",
+            "code": "S-Bahn München",
+            "name": "S-Bahn München",
+            "website": "http://www.s-bahn-muenchen.de",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id453714981",
+        "version": "4.6.9",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "it-tper",
+            "code": "TPER",
+            "name": "Trasporto Passeggeri Emilia Romagna",
+            "website": "https://www.tper.it/",
+            "countries": ["IT"]
+        },
+        "os": "ios",
+        "appId": "id1035571915",
+        "version": "1.0.6",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": false,
+        "system": "hafas",
+        "official": false
+    },
+    {
+        "agency": {
+            "id": "de-dvb",
+            "code": "DVB",
+            "name": "Dresdner Verkehrsbetriebe",
+            "website": "https://www.dvb.de",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id314790387",
+        "version": "3.3",
+        "usesHttps": true,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": true,
+        "system": "hafas",
+        "official": false
+    },
+    {
+        "agency": {
+            "id": "de-saarvv",
+            "code": "saarVV",
+            "name": "Saarländischer Verkehrsverbund",
+            "website": "https://saarvv.de/",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id574369626",
+        "version": "2.2.5",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": null,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "pl-pkp",
+            "code": "PKP",
+            "name": "Polskie Koleje Państwowe",
+            "website": "http://www.pkp.pl",
+            "countries": ["PL"]
+        },
+        "os": "ios",
+        "appId": "id529806476",
+        "version": "2.2.2",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": null,
+        "system": "hafas",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-vgn",
+            "code": "VGN",
+            "name": "Verkehrsverbund Großraum Nürnberg",
+            "website": "https://www.vgn.de/",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id582623425",
+        "version": "3.3",
+        "usesHttps": true,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": null,
+        "system": "fiffi",
+        "official": false
+    },
+    {
+        "agency": {
+            "id": "de-swa",
+            "code": "SWA",
+            "name": "Stadtwerke Augsburg",
+            "website": "https://www.sw-augsburg.de",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id874288024",
+        "version": "1.3",
+        "usesHttps": true,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": null,
+        "system": "fiffi",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-swk",
+            "code": "SWK",
+            "name": "Stadtwerke Konstanz",
+            "website": "https://www.stadtwerke-konstanz.de",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id429148903",
+        "version": "2.1",
+        "usesHttps": true,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": null,
+        "system": "fiffi",
+        "official": false
+    },
+    {
+        "agency": {
+            "id": "be-irail",
+            "code": "iRail",
+            "name": "iRail",
+            "website": "https://hello.irail.be/",
+            "countries": ["BE"]
+        },
+        "os": "android",
+        "appId": "tof.cv.mpp",
+        "version": "4.8.13",
+        "usesHttps": true,
+        "endpointHasHttps": null,
+        "certificatePinning": null,
+        "sendsDeviceId": null,
+        "system": null,
+        "official": false
+    },
+    {
+        "agency": {
+            "id": "be-irail",
+            "code": "iRail",
+            "name": "iRail",
+            "website": "https://hello.irail.be/",
+            "countries": ["BE"]
+        },
+        "os": "ios",
+        "appId": "id591205121",
+        "version": "1.7.3",
+        "usesHttps": true,
+        "endpointHasHttps": null,
+        "certificatePinning": null,
+        "sendsDeviceId": null,
+        "system": null,
+        "official": false
+    },
+    {
+        "agency": {
+            "id": "be-irail",
+            "code": "iRail",
+            "name": "iRail",
+            "website": "https://hello.irail.be/",
+            "countries": ["BE"]
+        },
+        "os": "android",
+        "appId": "be.hyperrail.android",
+        "version": "1.0.10b",
+        "usesHttps": true,
+        "endpointHasHttps": null,
+        "certificatePinning": null,
+        "sendsDeviceId": null,
+        "system": null,
+        "official": false
+    },
+    {
+        "agency": {
+            "id": "de-mvv",
+            "code": "MVV",
+            "name": "Münchner Verkehrs- und Tarifverbund",
+            "website": "https://www.mvv-muenchen.de/",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id388686726",
+        "version": "4.6.9",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": null,
+        "system": "efa",
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "ch-sbb",
+            "code": "SBB",
+            "name": "Schweizerische Bundesbahnen",
+            "website": "https://www.sbb.ch",
+            "countries": ["CH"]
+        },
+        "os": "ios",
+        "appId": "id294855237",
+        "version": "7.5.0",
+        "usesHttps": true,
+        "endpointHasHttps": null,
+        "certificatePinning": true,
+        "sendsDeviceId": null,
+        "system": null,
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-rmv",
+            "code": "RMV",
+            "name": "Rhein-Main-Verkehrsverbund",
+            "website": "https://www.rmv.de",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id382594207",
+        "version": "2.1.1",
+        "usesHttps": true,
+        "endpointHasHttps": null,
+        "certificatePinning": true,
+        "sendsDeviceId": null,
+        "system": null,
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-hvv",
+            "code": "HVV",
+            "name": "Hamburger Verkehrsverbund",
+            "website": "https://www.hvv.de",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id501995569",
+        "version": "4.1.0",
+        "usesHttps": true,
+        "endpointHasHttps": null,
+        "certificatePinning": true,
+        "sendsDeviceId": null,
+        "system": null,
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "de-kvb",
+            "code": "KVB",
+            "name": "Kölner Verkehrs-Betriebe",
+            "website": "https://www.kvb.koeln/",
+            "countries": ["DE"]
+        },
+        "os": "ios",
+        "appId": "id885841812",
+        "version": "2.4",
+        "usesHttps": true,
+        "endpointHasHttps": null,
+        "certificatePinning": true,
+        "sendsDeviceId": null,
+        "system": null,
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "us-septa",
+            "code": "SEPTA",
+            "name": "Southeastern Pennsylvania Transportation Authority",
+            "website": "https://www.septa.org/",
+            "countries": ["US"]
+        },
+        "os": "ios",
+        "appId": "id724915219",
+        "version": "2.0.15",
+        "usesHttps": true,
+        "endpointHasHttps": null,
+        "certificatePinning": true,
+        "sendsDeviceId": null,
+        "system": null,
+        "official": true
+    },
+    {
+        "agency": {
+            "id": "ch-tpg",
+            "code": "tpg",
+            "name": "Transports publics genevois",
+            "website": "https://tpg.ch",
+            "countries": ["CH"]
+        },
+        "os": "ios",
+        "appId": "id421132153",
+        "version": "1.6.31",
+        "usesHttps": true,
+        "endpointHasHttps": null,
+        "certificatePinning": true,
+        "sendsDeviceId": null,
+        "system": null,
+        "official": null
+    },
+    {
+        "agency": {
+            "id": "fr-ratp",
+            "code": "RATP",
+            "name": "Régie autonome des transports Parisiens",
+            "website": "https://www.ratp.fr/",
+            "countries": ["FR"]
+        },
+        "os": "ios",
+        "appId": "id507107090",
+        "version": "6.8.3",
+        "usesHttps": false,
+        "endpointHasHttps": null,
+        "certificatePinning": false,
+        "sendsDeviceId": true,
+        "system": null,
+        "official": true
+    }
+]

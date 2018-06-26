@@ -2,7 +2,7 @@
 
 Let's make a list to **put pressure on public transport providers to securely transmit personal data!**
 
-Check the [list of apps](list.md)!
+Check the [list of apps](list.json)!
 
 ![CC0-licensed](https://img.shields.io/github/license/public-transport/public-transport-apps-encryption.svg)
 
