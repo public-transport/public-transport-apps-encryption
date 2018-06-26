@@ -500,7 +500,7 @@
         "endpointHasHttps": null,
         "certificatePinning": false,
         "sendsDeviceId": true,
-        "system": "hafas",
+        "system": "fiffi",
         "official": false
     },
     {

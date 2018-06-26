@@ -33,7 +33,6 @@ agency | os | version | official? | HTTPS? | sends device-unique ID? | cert pinn
 [ÜSTRA](https://www.uestra.de)|ios|[18.06.1](https://itunes.apple.com/app/id1073096181)|✅|❌|❌|❌
 [S-Bahn München](http://www.s-bahn-muenchen.de)|ios|[4.6.9](https://itunes.apple.com/app/id453714981)|✅|❌|❌|❌
 [TPER](https://www.tper.it/)|ios|[1.0.6](https://itunes.apple.com/app/id1035571915)|❌|❌|❌|❌
-[DVB](https://www.dvb.de)|ios|[3.3](https://itunes.apple.com/app/id314790387)|❌|✅|✅|❌
 [saarVV](https://saarvv.de/)|ios|[2.2.5](https://itunes.apple.com/app/id574369626)|✅|❌|❔|❌
 [PKP](http://www.pkp.pl)|ios|[2.2.2](https://itunes.apple.com/app/id529806476)|✅|❌|❔|❌
 
@@ -47,6 +46,7 @@ agency | os | version | official? | HTTPS? | sends device-unique ID? | cert pinn
 
 agency | os | version | official? | HTTPS? | sends device-unique ID? | cert pinning?
 -------|----|---------|-----------|--------|-------------------------|--------------
+[DVB](https://www.dvb.de)|ios|[3.3](https://itunes.apple.com/app/id314790387)|❌|✅|✅|❌
 [VGN](https://www.vgn.de/)|ios|[3.3](https://itunes.apple.com/app/id582623425)|❌|✅|❔|❌
 [SWA](https://www.sw-augsburg.de)|ios|[1.3](https://itunes.apple.com/app/id874288024)|✅|✅|❔|❌
 [SWK](https://www.stadtwerke-konstanz.de)|ios|[2.1](https://itunes.apple.com/app/id429148903)|❌|✅|❔|❌
