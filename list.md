@@ -14,7 +14,6 @@ VMT | `2.0.17-df4f4` | ✅ | ❌ | ❌
 VBN | `4.2.10` | ❌ | ❌ | ❌
 moobil+ | `4.0.4` | ❌ | ❌ | ❌
 CFL mobile | `4.0.0` | ❌ | ❌ | ❌
-Fahrinfo Dresden | `3.3` | ✅ | ✅ | ❌
 BVG | `6.0.0.52#ec4b3` | ❌ | ❌ | ❌
 VBB | `4.1.6` | ❌ | ✅ | ❌
 S-Bahn Berlin | `3.0.2` | ❌ | ✅ | ❌
@@ -53,6 +52,7 @@ Stadtwerke Konstanz | `2.1` | ✅ | ? | ❌
 app | version | HTTPS? | sends device-unique ID? | cert pinning?
 ----|---------|--------|-------------------------|--------------
 MVV | `4.6.6` | ❌ | ? (EVA) | ❌
+Fahrinfo Dresden | `3.3` | ✅ | ✅ | ❌
 
 ## apps using the [iRail API](https://api.irail.be/)
 
